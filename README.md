@@ -11,5 +11,5 @@ I'm a beginner **Minecraft plugin developer** interested in creating fun and use
 
 ## 📩 Contact Me  
 💬 **Want to connect? Feel free to reach out!**  
-- **Discord:** `yourDiscord#1234`  
+- **Discord:** `vspteddy`  
 - **GitHub:** You're already here! 😃  

@@ -15,7 +15,7 @@ I'm a beginner **Minecraft plugin developer** interested in creating fun and use
 - **StaffMode** – A powerful Paper/Spigot staff-mode plugin with vanish, teleport, inspect tools, inventory viewing, live config reloads, Discord logging, and GUI support.  
 
 ## 💼 Portfolio  
-**Benders Destiny** – Currently working as a **Junior Developer** for *Benders Destiny*, a Minecraft bending server inspired by Avatar: The Last Airbender *(as of 22/04/25)*.  
+**Benders Destiny** – Currently working as a **Junior Developer** for *Benders Destiny*. *(as of 22/04/25)*.  
 
 ## 📩 Contact Me  
 💬 **Want to connect? Feel free to reach out!**  

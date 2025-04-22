@@ -16,7 +16,6 @@ I'm a beginner **Minecraft plugin developer** interested in creating fun and use
 
 ## 💼 Portfolio  
 **Benders Destiny** – Currently working as a **Junior Developer** for *Benders Destiny*, a Minecraft bending server inspired by Avatar: The Last Airbender *(as of 22/04/25)*.  
-Contributing to gameplay mechanics, plugin enhancements, and performance optimizations.  
 
 ## 📩 Contact Me  
 💬 **Want to connect? Feel free to reach out!**  

@@ -12,7 +12,8 @@ I'm a beginner **Minecraft plugin developer** interested in creating fun and use
 🧱 **Fun Fact:** I also develop for Roblox games!
 
 ## 🧪 Projects  
-- **StaffMode** – A powerful Paper/Spigot staff-mode plugin with vanish, teleport, inspect tools, inventory viewing, live config reloads, Discord logging, and GUI support.  
+- **StaffMode** – A powerful Paper/Spigot staff-mode plugin with vanish, teleport, inspect tools, inventory viewing, live config reloads, Discord logging, and GUI support.
+- **BackMarkers** – A customizable Paper/Spigot plugin that lets players return to recent death locations using a sleek GUI, with timed teleport, cooldowns, clickable markers, configurable icons, admin tools, and per-slot permissions.
 
 ## 💼 Portfolio  
 **Benders Destiny** – Currently working as a **Junior Developer** for *Benders Destiny*. *(as of 22/04/25)*.  
